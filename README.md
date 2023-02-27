@@ -1,5 +1,5 @@
 # BookBot21
-## [Ссылка на бота в Telegram](https://doka.guide "Ссылка на бота в Telegram")
+## [Ссылка на бота в Telegram](http://t.me/Reserve21Bot "Ссылка на бота в Telegram")
 ---
 ![Приветствие](/img/1.png "Приветствие")
 ![Проблема и актуальность](/img/2.png "Проблема и актуальность")
